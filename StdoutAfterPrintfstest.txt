@@ -1,0 +1,7 @@
+size of int on this machine is 4
+size of char on this machine is 1
+'baka' in char array, there should be 'baka' and it is: baka
+'hentai' in int array, there should be 'hentai' but it is: h
+but if 'hentai' is compressed into an int array, it should work
+and it will printf a 'hentai' like: hentai
+and a more interesting thing is that, if you set it like order of H-E-N-T-A-I, it will be: tneh
